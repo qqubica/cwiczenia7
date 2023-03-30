@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kuba5\\Documents\\Studia\\APBD\\cwiczenia7\\cwiczenia7.csproj": {}
+    "C:\\Users\\s23291\\Documents\\cwiczenia7\\cwiczenia7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kuba5\\Documents\\Studia\\APBD\\cwiczenia7\\cwiczenia7.csproj": {
+    "C:\\Users\\s23291\\Documents\\cwiczenia7\\cwiczenia7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kuba5\\Documents\\Studia\\APBD\\cwiczenia7\\cwiczenia7.csproj",
+        "projectUniqueName": "C:\\Users\\s23291\\Documents\\cwiczenia7\\cwiczenia7.csproj",
         "projectName": "cwiczenia7",
-        "projectPath": "C:\\Users\\kuba5\\Documents\\Studia\\APBD\\cwiczenia7\\cwiczenia7.csproj",
-        "packagesPath": "C:\\Users\\kuba5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kuba5\\Documents\\Studia\\APBD\\cwiczenia7\\obj\\",
+        "projectPath": "C:\\Users\\s23291\\Documents\\cwiczenia7\\cwiczenia7.csproj",
+        "packagesPath": "C:\\Users\\s23291\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s23291\\Documents\\cwiczenia7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kuba5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\s23291\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,10 +71,29 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -83,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
